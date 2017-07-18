@@ -3,7 +3,7 @@ package dayTwo.excercise91;
 
 
 public class Customer {
-    private String firstname;
+    String firstname;
     private String ssn;
    
     // Encapsulate this class.  Make ssn read only.
